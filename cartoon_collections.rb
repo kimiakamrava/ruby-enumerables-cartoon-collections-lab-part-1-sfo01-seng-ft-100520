@@ -6,8 +6,7 @@ end
 
 def list_dwarves(array)
 array.each do |title|
-  puts "title #{*array}"
- end 
+  puts * title
 end
 
 
