@@ -9,6 +9,8 @@ array.each do |title|
   puts * title
 end
 
+end 
+
 
 
 
