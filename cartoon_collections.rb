@@ -5,7 +5,7 @@ def greet_characters(array)
 end
 
 def list_dwarves(array)
-array.each.with_index { |item,index| puts  " #{index}.*#{item}" if index > 0}
+array.each.with_index { |item,index| puts  " #{index}.*#{item}" if  item> 0}
 end
 
 
