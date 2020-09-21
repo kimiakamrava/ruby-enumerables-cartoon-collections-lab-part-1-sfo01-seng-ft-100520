@@ -6,7 +6,7 @@ end
 
 def list_dwarves(array)
 array.each do |title|
-  puts * title
+  puts  title
 end
 
 end 
