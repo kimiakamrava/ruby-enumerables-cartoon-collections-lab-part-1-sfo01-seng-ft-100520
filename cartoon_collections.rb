@@ -7,7 +7,6 @@ end
 def list_dwarves(array)
 array.each.with_index { |item,index| puts  " #{index}.*#{item}" if index > 0}
 
-end 
 
 
 
